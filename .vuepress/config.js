@@ -1,7 +1,7 @@
 module.exports = {
   title: 'creanote.',
   description: 'iOS developer, based in Tokyo',
-  ga: '',
+  // ga: '',
   themeConfig: {
     nav: [
       { text: 'Blog',      link: '../blog/indice' },
