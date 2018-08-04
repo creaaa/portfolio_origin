@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-# abort on errors!
+# abort on errors!!!
 set -e
 
 # build
