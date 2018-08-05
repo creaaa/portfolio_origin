@@ -1,6 +1,9 @@
 #!/usr/bin/env sh
 
-# abort on errors!!!
+# mdファイル(オリジン)をリモートプッシュ
+git push origin master
+
+# abort on errors
 set -e
 
 # build
